@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Debris",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-14T05:14:36.880127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Free of Debris",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/01_Free_of_Debris_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart Debris",
+      "artist": "Sepiamusic",
+      "has_synced": false,
+      "path": "select/02_Heart_Debris_Sepiamusic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Debris Slide",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/03_Debris_Slide_Pavement.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ash & Debris",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/04_Ash_&_Debris_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Debris",
+      "artist": "Theatre of Tragedy",
+      "has_synced": false,
+      "path": "select/05_Debris_Theatre_of_Tragedy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cosmik Debris (Live At The Palladium - 11/1/81)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/06_Cosmik_Debris_(Live_At_The_Palladium_-_11_1_81)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cosmik Debris (Live At The Palladium - 11\u00001\u000081)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/07_Cosmik_Debris_(Live_At_The_Palladium_-_11\u00001\u000081)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cosmik Debris (Basic Tracks / Take 3)",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/08_Cosmik_Debris_(Basic_Tracks___Take_3)_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cosmik Debris",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/09_Cosmik_Debris_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Social Debris",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/10_Social_Debris_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Free of Debris - Kelpe Remix",
+      "artist": "Morcheeba feat. Kelpe",
+      "has_synced": false,
+      "path": "select/11_Free_of_Debris_-_Kelpe_Remix_Morcheeba_feat._Kelpe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Free of Debris (Kelpe Remix)",
+      "artist": "Morcheeba Kelpe",
+      "has_synced": false,
+      "path": "select/12_Free_of_Debris_(Kelpe_Remix)_Morcheeba_Kelpe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Debris",
+      "artist": "Faces",
+      "has_synced": true,
+      "path": "select/13_Debris_Faces.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Debris",
+      "artist": "Faces",
+      "has_synced": false,
+      "path": "select/14_Debris_Faces.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Debris",
+      "artist": "The Faces",
+      "has_synced": true,
+      "path": "select/15_Debris_The_Faces.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Debris",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_Debris_ReoNa.txt"
+    }
+  ]
+}
